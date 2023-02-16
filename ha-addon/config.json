@@ -57,6 +57,13 @@
           "logtelegrams": "bool?",
           "shell": "str"
         },
-        "meters": [{}]
+        "meters": [
+          {
+            "name": "str?",
+            "driver": "str?",
+            "id": "str?",
+            "key": "str?"
+          }
+        ]
     }
 }
